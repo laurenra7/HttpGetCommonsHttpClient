@@ -1,5 +1,5 @@
 # HttpGetCommonsHttpClient
-Test HTTP GET using the old [Apache Commons HttpClient](http://hc.apache.org/httpclient-3.x/) which was widely used but has been replaced by [HttpComponents](http://hc.apache.org/).  The Spring Framework uses HttpComponents under the covers.
+Test HTTP GET using the old Apache Commons [HttpClient](http://hc.apache.org/httpclient-3.x/) which was widely used but has been replaced by [HttpClient](http://hc.apache.org/httpcomponents-client-ga/index.html) from [Apache HttpComponents](http://hc.apache.org/).  The Spring Framework uses HttpComponents under the covers.
 
 ### Build
 
